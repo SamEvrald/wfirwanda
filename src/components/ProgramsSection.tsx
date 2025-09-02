@@ -31,7 +31,7 @@ const ProgramsSection = () => {
     },
     {
       title: "The 2Gen Approach",
-      description: "Our signature Two-Generation approach addresses the interconnected needs of parents and children simultaneously, creating lasting change for entire families.",
+      description: "Our Two-Generation approach addresses the interconnected needs of parents and children simultaneously, creating lasting change for entire families.",
       image: gen,
       details: "When parents thrive, children thrive. We engage families as partners in shaping holistic, inclusive, and sustainable support that benefits entire communities."
     }
