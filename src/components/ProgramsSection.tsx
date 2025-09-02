@@ -7,6 +7,7 @@ import sParent from '@/assets/sparent.jpeg';
 import generation from '@/assets/generation.jpeg';
 import twoGen from '@/assets/two-gen.png';
 import cpd from '@/assets/cpd.png';
+import gen from '@/assets/2gen.png';
 
 const ProgramsSection = () => {
   const programs = [
@@ -31,7 +32,7 @@ const ProgramsSection = () => {
     {
       title: "The 2Gen Approach",
       description: "Our signature Two-Generation approach addresses the interconnected needs of parents and children simultaneously, creating lasting change for entire families.",
-      image: twoGenApproach,
+      image: gen,
       details: "When parents thrive, children thrive. We engage families as partners in shaping holistic, inclusive, and sustainable support that benefits entire communities."
     }
   ];
