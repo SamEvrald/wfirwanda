@@ -1,4 +1,4 @@
-import { Mail, Twitter, Facebook, Linkedin, Send } from 'lucide-react';
+import { Mail, X, Facebook, Linkedin, Send } from 'lucide-react';
 import { Button } from '@/components/ui/button';
 import { Input } from '@/components/ui/input';
 import { Textarea } from '@/components/ui/textarea';
@@ -198,17 +198,17 @@ const ContactSection = () => {
                   
                   <div className="space-y-4">
                     <a 
-                      href="https://twitter.com/WFIRwanda" 
+                      href="https://x.com/WFIRwanda" 
                       target="_blank" 
                       rel="noopener noreferrer"
                       className="flex items-center space-x-4 p-4 rounded-lg hover:bg-navy-light transition-colors group"
                     >
                       <div className="w-10 h-10 bg-gradient-primary rounded-full flex items-center justify-center">
-                        <Twitter size={18} className="text-white" />
+                        <X size={18} className="text-white" />
                       </div>
                       <div>
                         <p className="text-navy-deep font-medium group-hover:text-navy-medium transition-colors">
-                          Twitter
+                          X
                         </p>
                         <p className="text-sm text-navy-medium">@WFIRwanda</p>
                       </div>
